@@ -1,5 +1,5 @@
 const tokens = str => {
-  return str + "new string attached";
+  return str ;
 };
 
 module.exports = tokens;
