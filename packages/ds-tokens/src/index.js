@@ -1,5 +1,5 @@
-const tokens = () => {
-    return 'tokens module is working';
+const tokens = (str) => {
+    return str;
 }
 
 module.exports = tokens;

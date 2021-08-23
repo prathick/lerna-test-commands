@@ -20,6 +20,6 @@
     "access": "public"
   },
   "dependencies": {
-    "ds-tokens": "0.1.0"
+    "@prathic/ds-tokens": "0.2.1"
   }
 }
