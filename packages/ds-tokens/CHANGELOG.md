@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.7.0-alpha.0](https://github.com/prathick/lerna-test-commands/compare/@prathic/ds-tokens@0.6.0...@prathic/ds-tokens@0.7.0-alpha.0) (2021-08-23)
+
+
+### Features
+
+* remove string attached ([917062d](https://github.com/prathick/lerna-test-commands/commit/917062d47dfbd57796616b18e7b1d868cafccac7))
+
+
+
+
+
 # [0.6.0](https://github.com/prathick/lerna-test-commands/compare/@prathic/ds-tokens@0.5.0...@prathic/ds-tokens@0.6.0) (2021-08-23)
 
 
