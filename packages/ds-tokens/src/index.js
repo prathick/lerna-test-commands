@@ -1,5 +1,5 @@
 const tokens = str => {
-  return str + 'my string';
+  return str;
 };
 
 module.exports = tokens;
