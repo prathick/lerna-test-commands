@@ -1,0 +1,18 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "command": {
+    "version" : {
+      "exact": true,
+      "conventionalCommits": true,
+      "message": "chore(release): bump package versions",
+      "publish": {
+        "registry": "https://registry.npmjs.org"
+      }
+    }
+  },
+  "version": "independent",
+  "workspaces": true,
+  "npmClient": "yarn"
+}
