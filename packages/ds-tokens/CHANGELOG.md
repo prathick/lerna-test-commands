@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/prathick/lerna-test-commands/compare/@prathic/ds-tokens@0.3.0...@prathic/ds-tokens@0.5.0) (2021-08-23)
+
+
+### Features
+
+* New string concat ([c8357bd](https://github.com/prathick/lerna-test-commands/commit/c8357bd2202cbf026a9afda18c7808b641114341))
+* remove concat string ([ced9448](https://github.com/prathick/lerna-test-commands/commit/ced94485ff61e160f6a3233392b30dc22b5cc491))
+
+
+
+
+
 # [0.4.0](https://github.com/prathick/lerna-test-commands/compare/@prathic/ds-tokens@0.3.0...@prathic/ds-tokens@0.4.0) (2021-08-23)
 
 
